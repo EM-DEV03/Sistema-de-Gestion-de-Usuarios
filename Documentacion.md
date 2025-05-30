@@ -50,8 +50,8 @@ Project
 
 1. **Clona el repositorio:**
    ```sh
-   git clone <url-del-repositorio>
-   cd user-management-system
+   git clone https://github.com/EM-DEV03/Sistema-de-Gestion-de-Usuarios.git
+   cd Sistema-de-Gestion-de-Usuarios
    ```
 2. **Instala las dependencias:**
    ```sh
