@@ -36,8 +36,8 @@ Project
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/EM-DEV03/Sistema-de-Gesti-n-de-Usuarios.git
-   cd Sistema-de-Gesti-n-de-Usuarios
+   git clone https://github.com/EM-DEV03/Sistema-de-Gestion-de-Usuarios.git
+   cd Sistema-de-Gestion-de-Usuarios
    ```
 
 2. **Instala las dependencias:**
