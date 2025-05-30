@@ -30,8 +30,8 @@ Project
 │   ├── user_management.py   # Lógica para gestionar usuarios y sesiones
 │   └── utils.py             # Utilidades para validación y contraseñas
 ├── requirements.txt         # Lista de dependencias
-├── README.md                # Este archivo
-└── Documentacion.md         # Documentación completa del proyecto
+├── README.md                # Documentación
+└── Documentacion.md         # Este archivo
 ```
 
 ---
